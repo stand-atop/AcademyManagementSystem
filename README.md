@@ -1,2 +1,3 @@
 # AcademyManagementSystem
-1th_project_globaIT
+
+1th_project_globalIT
